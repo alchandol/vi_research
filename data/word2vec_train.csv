@@ -1,0 +1,101 @@
+pid,practice_area,expertise,language,location
+0,Immigration,"border policy, visa, permanent residency, immigration","Chinese",Dallas
+1,Corporate,"M&A, Mergers, employment, contract, due diligence, takeover","Spanish",Los Angeles
+2,Employment,"Contracts, termination, payroll, NDA","Chinese",Washington
+3,Immigration,"border, work visa, citizenship","Italian",Seattle
+4,Family Law,"Divorce, child custody, alimony","English",New York
+5,Real Estate,"Property management, leasing, acquisitions, transactions","French",Miami
+6,Criminal Law,"Assault, theft, homicide, DUI","Japanese",Chicago
+7,Intellectual Property,"Patent, copyright, trademark, IP litigation","Japanese",San Francisco
+8,Healthcare,"Medical malpractice, insurance, regulations, compliance","Korean",Washington
+9,Tax Law,"Tax planning, audit defense, international taxation","Spanish",Los Angeles
+10,Intellectual Property,"Trademark, trade secret, IP enforcement","Arabic",Washington
+11,Family Law,"Adoption, surrogacy, guardianship","English",Dallas
+12,Real Estate,"Construction, zoning, property disputes","Hindi",Seattle
+13,Criminal Law,"White-collar crime, fraud, embezzlement","French",New York
+14,Employment,"Discrimination, harassment, workplace safety","Chinese",Miami
+15,Immigration,"Asylum, deportation, refugee status","Korean",Los Angeles
+16,Corporate,"Corporate governance, compliance, securities","Japanese",San Francisco
+17,Tax Law,"Estate planning, tax litigation, wealth management","Spanish",Chicago
+18,Healthcare,"Healthcare regulation, FDA compliance, telemedicine","Italian",Miami
+19,Real Estate,"Landlord-tenant disputes, evictions, leasing agreements","Chinese",Dallas
+20,Intellectual Property,"Licensing, technology transfer, IP portfolio management","French",New York
+21,Criminal Law,"Criminal defense, probation violation, appeals","Spanish",Seattle
+22,Family Law,"Spousal support, domestic violence, prenuptial agreements","English",San Francisco
+23,Employment,"Whistleblower claims, severance negotiation, labor disputes","Japanese",Washington
+24,Healthcare,"Medical billing, HIPAA compliance, healthcare contracts","Korean",Chicago
+25,Corporate,"Venture capital, corporate restructuring, private equity","Chinese",Los Angeles
+26,Real Estate,"Commercial leases, real estate finance, property development","Hindi",Miami
+27,Tax Law,"Transfer pricing, international tax planning, tax-exempt organizations","French",Dallas
+28,Intellectual Property,"Copyright infringement, IP due diligence, IP licensing","Arabic",New York
+29,Employment,"Employee benefits, non-compete agreements, workplace investigations","Spanish",Seattle
+30,Immigration,"Green card, naturalization, asylum appeals","Korean",San Francisco
+31,Corporate,"Commercial contracts, shareholder agreements, business formation","Japanese",Chicago
+32,Criminal Law,"Probation violation, asset forfeiture, juvenile offenses","Italian",Miami
+33,Family Law,"Child support, paternity disputes, same-sex marriage issues","Chinese",Dallas
+34,Real Estate,"Eminent domain, real estate investment trusts, title examination","French",New York
+35,Healthcare,"Telehealth regulations, medical ethics, healthcare licensing","Hindi",Seattle
+36,Tax Law,"Sales tax, property tax, international tax compliance","Spanish",Los Angeles
+37,Intellectual Property,"Design patents, IP audits, IP valuation","Arabic",San Francisco
+38,Employment,"Severance agreements, workplace discrimination, labor contracts","Japanese",Washington
+39,Immigration,"Deportation defense, immigration appeals, immigration waivers","Korean",Chicago
+40,Corporate,"Cross-border transactions, corporate finance, corporate governance","Chinese",Miami
+41,Real Estate,"Foreclosures, real estate arbitration, real estate tax planning","Hindi",Dallas
+42,Criminal Law,"Capital offenses, criminal appeals, criminal fraud","French",New York
+43,Family Law,"Guardianship, child protection, family mediation","Chinese",Seattle
+44,Healthcare,"Healthcare privacy laws, healthcare contracts, healthcare compliance","Korean",Los Angeles
+45,Tax Law,"Tax evasion, tax fraud, tax shelters","Spanish",San Francisco
+46,Intellectual Property,"IP dispute resolution, IP arbitration, IP mediation","Arabic",Chicago
+47,Employment,"Employment contracts, workplace safety regulations, severance packages","Japanese",Miami
+48,Immigration,"Refugee law, immigration policy, asylum law","Korean",Dallas
+49,Corporate,"Corporate litigation, corporate compliance, corporate investigations","Chinese",New York
+50,Real Estate,"Property titles, real estate planning, real estate sales","Hindi",Seattle
+51,Criminal Law,"Criminal justice, criminal defense appeals, criminal negligence","French",Los Angeles
+52,Family Law,"Domestic partnerships, child abduction, family arbitration","Chinese",San Francisco
+53,Healthcare,"Medicare regulations, healthcare ethics, healthcare licensing","Korean",Washington
+54,Tax Law,"Tax treaties, international tax disputes, corporate tax planning","Spanish",Chicago
+55,Intellectual Property,"IP licensing agreements, IP due diligence, IP management","Arabic",Miami
+56,Employment,"Employment discrimination, labor union negotiations, workplace harassment","Japanese",Dallas
+57,Immigration,"Deportation proceedings, immigration amnesty, immigration petitions","Korean",New York
+58,Corporate,"Corporate risk management, corporate governance, corporate strategy","Chinese",Seattle
+59,Real Estate,"Real estate brokerage, real estate leasing, real estate transactions","Hindi",Los Angeles
+60,Criminal Law,"Criminal sentencing, criminal appeals, criminal trial defense","French",San Francisco
+61,Family Law,"Family dispute resolution, child protection, family court appeals","Chinese",Chicago
+62,Healthcare,"Healthcare fraud, healthcare compliance, healthcare policy","Korean",Miami
+63,Tax Law,"Income tax, property tax appeals, tax-exempt status","Spanish",Dallas
+64,Intellectual Property,"IP enforcement, IP strategy, IP protection","Arabic",New York
+65,Employment,"Labor law, employment litigation, workplace investigations","Japanese",Seattle
+66,Immigration,"Visa applications, immigration appeals, asylum petitions","Korean",Los Angeles
+67,Corporate,"Mergers and acquisitions, corporate restructuring, corporate contracts","Chinese",San Francisco
+68,Real Estate,"Real estate development, real estate financing, real estate arbitration","Hindi",Washington
+69,Criminal Law,"Criminal investigation, criminal sentencing, criminal appeals","French",Chicago
+70,Family Law,"Adoption proceedings, child custody disputes, family mediation","Chinese",Miami
+71,Healthcare,"Healthcare regulation, medical ethics, healthcare compliance","Korean",Dallas
+72,Tax Law,"Tax evasion, tax planning, international taxation","Spanish",New York
+73,Intellectual Property,"IP prosecution, IP protection, IP portfolio management","Arabic",Seattle
+74,Employment,"Workplace discrimination, labor negotiations, employment contracts","Japanese",Los Angeles
+75,Immigration,"Immigration petitions, deportation defense, immigration appeals","Korean",San Francisco
+76,Corporate,"Corporate governance, corporate finance, corporate compliance","Chinese",Washington
+77,Real Estate,"Real estate contracts, real estate disputes, real estate titles","Hindi",Chicago
+78,Criminal Law,"Criminal defense, criminal appeals, criminal sentencing","French",Miami
+79,Family Law,"Divorce settlements, child support, family court appeals","Chinese",Dallas
+80,Healthcare,"Healthcare policy, medical malpractice, healthcare compliance","Korean",New York
+81,Tax Law,"Tax litigation, tax planning, international tax law","Spanish",Seattle
+82,Intellectual Property,"IP enforcement, IP strategy, IP management","Arabic",Los Angeles
+83,Employment,"Employment law, workplace discrimination, labor negotiations","Japanese",San Francisco
+84,Immigration,"Immigration law, refugee law, asylum petitions","Korean",Washington
+85,Corporate,"Corporate litigation, corporate governance, corporate investigations","Chinese",Chicago
+86,Real Estate,"Real estate transactions, property development, real estate disputes","Hindi",Miami
+87,Criminal Law,"Criminal investigations, criminal defense, criminal appeals","French",Dallas
+88,Family Law,"Family court proceedings, child custody disputes, adoption proceedings","Chinese",New York
+89,Healthcare,"Healthcare regulations, medical ethics, healthcare compliance","Korean",Seattle
+90,Tax Law,"Tax disputes, tax planning, international tax agreements","Spanish",Los Angeles
+91,Intellectual Property,"IP enforcement, IP strategy, IP management","Arabic",San Francisco
+92,Employment,"Employment law, workplace discrimination, labor negotiations","Japanese",Washington
+93,Immigration,"Immigration law, refugee law, asylum petitions","Korean",Chicago
+94,Corporate,"Corporate litigation, corporate governance, corporate investigations","Chinese",Miami
+95,Real Estate,"Real estate transactions, property development, real estate disputes","Hindi",Dallas
+96,Criminal Law,"Criminal investigations, criminal defense, criminal appeals","French",New York
+97,Family Law,"Family court proceedings, child custody disputes, adoption proceedings","Chinese",Seattle
+98,Healthcare,"Healthcare regulations, medical ethics, healthcare compliance","Korean",Los Angeles
+99,Tax Law,"Tax disputes, tax planning, international tax agreements","Spanish",San Francisco
